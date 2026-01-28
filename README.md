@@ -23,9 +23,12 @@ Java Full Stack Developer • Open to Opportunities
 
 </div>
 
+<div align="center">
+
 ---
 
 ## 👋 About Me
+</div>
 
 I’m a **Java Full Stack Engineer** with hands-on experience building **secure, scalable, API-driven applications** across web and mobile platforms.
 
@@ -34,7 +37,8 @@ I enjoy working across the stack — from backend architecture and authenticatio
 I’m currently **actively looking for full-time opportunities** where I can contribute, learn, and grow as an engineer.
 
 ---
-
+<div align="center">
+  
 ## 🧰 Tech Stack
 
 ### Backend
@@ -51,69 +55,158 @@ I’m currently **actively looking for full-time opportunities** where I can con
 
 ---
 
-## 🚀 Featured Projects
 
-### 📱 ZEDX — Fintech Productivity Mobile App
-**React Native • Expo • REST APIs**
+<!-- =============================== -->
+<!-- PROJECTS : TWO PER ROW (TABLE) -->
+<!-- =============================== -->
 
-A fintech-focused productivity mobile application designed to help users stay focused while working toward financial and task-oriented goals.
+## 🏗️ What I Build (Projects)
 
-**Highlights**
-- API-driven React Native frontend
-- Clean modular UI architecture
-- Integrated with a secure backend via REST APIs
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🔗 Frontend Repo  
-https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/ZEDX
+### 📱 ZEDX  
+**Fintech Productivity Mobile Application**
 
----
+ZEDX is a fintech-focused productivity mobile application designed to help users stay focused and intentional while working toward financial and task-oriented goals.  
+The app follows a fully API-driven architecture and communicates with a secure backend via REST APIs.
 
-### 🔐 ZEDX Backend — Secure Node.js API
-**Node.js • JWT • Plaid • Dwolla**
+```yaml
+Stack:
+  Frontend: React Native, Expo
+  Backend: Node.js (REST APIs)
+  Auth: JWT
+  Integrations: Plaid, Dwolla
+```
 
-Backend system powering the ZEDX mobile app, designed to be secure, lightweight, and scalable for MVP and production use.
+**Features**
+- Goal-based productivity tracking
+- Secure JWT authentication
+- Modular API-driven mobile architecture
+- Fintech service integration
 
-**Highlights**
-- JWT-based authentication
+**Status:** 🟡 MVP / Active Development  
+
+🔗 https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/ZEDX
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 ZEDX Backend  
+**Secure Node.js API**
+
+Node.js backend powering the ZEDX mobile application.  
+Designed to be secure, lightweight, and scalable for MVP and future production use.
+
+```yaml
+Stack:
+  Backend: Node.js, Express
+  Auth: JWT
+  Database: Env-based config
+  Integrations: Plaid, Dwolla
+```
+
+**Features**
 - RESTful API design
-- Third-party integrations (Plaid, Dwolla)
-- Secure database connectivity
+- JWT-based authentication
+- Third-party fintech APIs
+- Scalable backend structure
 
-🔗 Backend Repo  
-https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/ZEDX-Backend
+**Status:** 🟡 API Ready / MVP  
 
----
+🔗 https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/ZEDX-Backend
 
-### 📰 TinyBloggers — Secure News Blog Platform
-
-A full-featured news blogging platform with OTP-based authentication and content moderation.
-
-**Highlights**
-- OTP verification for admins and users
-- Role-based content publishing
-- Searchable article system
-- Focus on security and moderation
-
-🔗 GitHub Repo  
-https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/TinyBlogger
+</td>
+</tr>
+</table>
 
 ---
 
-### 🗂️ Secure Task Management System (Nx Monorepo)
-**Next.js • Angular • RBAC • JWT**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A secure task management system built using an Nx monorepo architecture.
+### 📰 TinyBloggers  
+**Secure News Blog Platform**
 
-**Highlights**
-- Role-Based Access Control (RBAC)
+TinyBloggers is a news blogging platform where admins can publish articles and users can browse and search content.  
+Security is enforced using OTP-based authentication and moderation workflows.
+
+```yaml
+Stack:
+  Backend: Node.js, Express
+  Frontend: HTML, CSS, JavaScript
+  Auth: OTP-based login
+  Hosting: Cloud VM
+```
+
+**Features**
+- OTP verification for users and admins
+- Role-based publishing
+- Content moderation
+- Article search and filtering
+
+🔗 https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/TinyBlogger
+
+</td>
+<td width="50%" valign="top">
+
+### 🗂️ Secure Task Management System  
+**Nx Monorepo • RBAC**
+
+A secure task management system built using an Nx monorepo architecture with clean separation of frontend and backend concerns.
+
+```yaml
+Stack:
+  Backend: Next.js
+  Frontend: Angular
+  Auth: JWT
+  Access: RBAC
+  Database: SQLite
+```
+
+**Features**
+- Role-Based Access Control
 - JWT authentication
-- Monorepo setup for scalability
-- Clean separation of frontend and backend
+- Nx monorepo structure
+- Modular and maintainable codebase
 
-🔗 GitHub Repo  
-https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/veppagunta-3e04c8a7-fdc2-4182-bde1-2f1fe496aee6
+🔗 https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/veppagunta-3e04c8a7-fdc2-4182-bde1-2f1fe496aee6
+
+</td>
+</tr>
+</table>
 
 ---
+
+<!-- =============================== -->
+<!-- CORE EXPERTISE : SIDE BY SIDE  -->
+<!-- =============================== -->
+
+## 🧠 Core Expertise
+
+
+```yaml
+┌────────────────────────────────────────────────────────────────────────────────────────────┐
+│ SYSTEM DESIGN          BACKEND ENGINEERING       FRONTEND & MOBILE         DATABASES       │
+│ ──────────────         ───────────────────       ──────────────────       ────────────     │
+│ • REST APIs           • Java / Spring Boot       • React                  • Postgre        │
+│ • Authentication      • Node.js / Express        • React Native           • MySQL          │
+│ • RBAC & Security     • Python / FastAPI         • Angular                • MongoDB        │
+│ • Scalability         • GraphQL / REST           • TypeScript / Redux     • Redis          │
+│                                                                           • DB2            │
+│                                                                                            │
+│ DEVOPS & CLOUD                                                                             │
+│ ───────────────                                                                            │
+│ • AWS • Docker • Kubernetes • Linux • CI/CD Pipelines                                      │
+└────────────────────────────────────────────────────────────────────────────────────────────┘
+
+```
+
+
+
+
 
 ## 📊 GitHub Stats
 
@@ -127,6 +220,7 @@ https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/veppagunta-3e04c8a7-fdc2-4
 ---
 
 ## 🎯 What I’m Looking For
+</div>
 
 - Java / Full Stack Engineer roles  
 - Backend-heavy teams using Spring Boot or Node.js  
@@ -134,9 +228,11 @@ https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/veppagunta-3e04c8a7-fdc2-4
 - Teams that value clean architecture and good engineering practices  
 
 ---
-
+<div align="center">
+  
 ## 🌐 Let’s Connect
 
+</div>
 <a href="https://www.linkedin.com/in/venkata-eppagunta">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -145,8 +241,9 @@ https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/veppagunta-3e04c8a7-fdc2-4
 </a>
 
 <br/><br/>
-
+<div align="center">
 ⭐ Thanks for visiting my profile!
+</div>
 
 <!-- ===== CLEAN BLUE FOOTER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:0EA5E9&height=120&section=footer"/>
