@@ -172,7 +172,7 @@ Stack:
 - Nx monorepo structure
 - Modular and maintainable codebase
 
-🔗 https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/Secure-Task-Managment-System-JWT-RBACManagment-Sytem-JWT-RBAC
+🔗 https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/Secure-Task-Managment-System-JWT-RBAC
 
 </td>
 </tr>
