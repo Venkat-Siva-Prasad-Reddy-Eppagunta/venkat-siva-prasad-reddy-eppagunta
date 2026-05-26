@@ -3,10 +3,10 @@
 <!-- ===== CLEAN BLUE HEADER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2563EB,100:1E3A8A&height=220&section=header&text=VENKATA%20EPPAGUNTA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<h3>Full Stack Engineer | Java • Spring Boot • Node.js • React • AWS</h3>
+<h3>AI Engineer | AI • ML • LLMS • VectorDB • Transformers • Java • Spring Boot • Node.js • React • AWS</h3>
 
 <p>
-Java Full Stack Developer • Open to Opportunities
+AI Software Engineer  • Open to Opportunities
 </p>
 
 <!-- ===== SOCIAL LINKS ===== -->
@@ -30,7 +30,9 @@ Java Full Stack Developer • Open to Opportunities
 ## 👋 About Me
 </div>
 
-I’m a **Java Full Stack Engineer** with hands-on experience building **secure, scalable, API-driven applications** across web and mobile platforms.
+I’m a **AI Engineer** with hands-on experience building **secure, scalable, API-driven applications** across web and mobile platforms.
+
+Recently expanded into **AI engineering**  researched and built enterprise **AI agents** trained on codebases, Jira, and Confluence to assist developer workflows. Familiar with **RAG pipelines, vector stores, and LLMs** work together under the hood.
 
 I enjoy working across the stack — from backend architecture and authentication to frontend UX — and I focus on writing **clean, maintainable code** that scales well in real-world systems.
 
@@ -52,6 +54,7 @@ I’m currently **actively looking for full-time opportunities** where I can con
 
 ### DevOps / Cloud
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,jenkins" />
+
 
 ---
 
