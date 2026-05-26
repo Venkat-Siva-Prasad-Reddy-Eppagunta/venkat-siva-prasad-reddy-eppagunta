@@ -13,7 +13,7 @@ AI Software Engineer  • Open to Opportunities
 <a href="https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta">
   <img src="https://img.shields.io/badge/GitHub-Venkat--Siva--Prasad--Reddy--Eppagunta-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/venkata-eppagunta">
+<a href="[https://www.linkedin.com/in/venkata-eppagunta-](https://www.linkedin.com/in/venkata-eppagunta-4448433b6)">
   <img src="https://img.shields.io/badge/LinkedIn-Venkata%20Eppagunta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
